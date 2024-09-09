@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EBBA1DE5-F3E7-4C6F-9410-C7CC5D10FE4B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Course__project__oop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Course_project_oop/RandomNumbers.cs">
+    <Files>
+      <File FileName="Course_project_oop/GlobalMembers.cs" Line="15" Column="14" />
+      <File FileName="Course_project_oop/CourseProject.cs" Line="7" Column="3" />
+      <File FileName="Course_project_oop/ConsoleInput.cs" Line="9" Column="4" />
+      <File FileName="Course_project_oop/RandomNumbers.cs" Line="8" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Course_project_oop" expanded="True">
+            <Node name="Course_project_oop" expanded="True">
+              <Node name="RandomNumbers.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
